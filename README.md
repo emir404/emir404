@@ -1,20 +1,28 @@
-# Who am i?
+# 💫 About Me:
+🔭 Currently working with Lua and Python<br>🌱 Learning JavaScript<br>
 
-• Hi there, my name is Emir and i'm a LUA Developer, i recently switched my main language to *Python* and i'm working with *Python* now.                                            
-• Before that, i was playing and scripting on MTA San Andreas.
 
-# Languages and Tools
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/emirayaz1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emirayz272) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/emirayz272) 
 
-• I use VSCode and Sublime Text as a IDE.                                              
-• I use Python for my projects.                                            
-• I use LUA for my projects in MTA.
+# 💻 Tech Stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yourpalemir&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yourpalemir&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourpalemir&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# What i am doing now?
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=emirayz272)](https://gtce.itsvg.in)
 
-• I was Developer of Project:MTA, now i am one of the co-founders of *Clery Robotics*.                                            
-• I work in the *Clery Robotics* as a programmer and we are developing a advanced voice assistant. 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-# What is Clery?
+---
+[![](https://visitcount.itsvg.in/api?id=yourpalemir&icon=6&color=12)](https://visitcount.itsvg.in)
 
-• Clery is a advanced voice asisistant that you can make your calls, send messages, learn new things, listen to music etc..                                            
-• We are developing this project as *Clery Robotics* and we are making very well progress with our team.
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/emirayz272) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
