@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working with Lua and Python<br>🌱 Learning JavaScript<br>
+🔭 Currently working with Lua and Python, sometimes HTML5 and CSS3. Mostly I use Lua for MTA scripting. Python for other projects.<br>🌱 Learning JavaScript and C# for now.<br>
 
 
 ## 🌐 Socials:
