@@ -55,22 +55,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wearus/wearus/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/wearus/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/212curn6c5vzr5gov5e2u7kty">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
