@@ -2,6 +2,10 @@
 
 ###
 
+<p align="center">I am a software developer who is passionate about creating new technologies, learning about new languages, and building applications. I started coding at the age of 13 and have been coding since then. I love coding much, and I am always looking for new opportunities to learn and grow as a developer. I am using this website to showcase my projects and my skills. I'm currently working on a few projects, and I will be adding them to this website as soon as they are ready. I am also looking for new opportunities to work on new projects and learn new technologies. If you have any questions or want to work with me, feel free to contact me. I am using HTML5, CSS3, and JavaScript to create this website. I am also using Python and Lua for some other projects.</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=wearus" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=wearus" height="150" alt="languages graph"  />
@@ -52,6 +56,12 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/wearus/wearus/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
