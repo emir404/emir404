@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Emir!</h2>
+<h2 align="center">Hi 👋 My name is Emir!</h2>
 
 ###
 
@@ -60,8 +60,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/wearus/wearus/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
